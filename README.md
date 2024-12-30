@@ -10,4 +10,6 @@ This script extract multiple tables from multiple PDFs stored in 1 map with a sp
 
 This script retrieves emails from a local client via Win32, then uses ChatGPT to summarize their contents and highlight the most important action items.
 
+## WeekMealPlanner.py
 
+Leaverages my Obsidian database to retrieve the various lunch salads i have stored there. Then shows them in a Windows GUI to let me chose which ones i will make for the week and makes, automaticly a shopping list to buy the ingredients.
